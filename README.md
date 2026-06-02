@@ -22,3 +22,13 @@ The solution uses a **3-Pointers Approach** to compare values from all three col
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ryuto00/merge-collections
+2. Navigate to the project directory:
+   ```bash
+    cd merge-collections
+3. Install dependencies:
+   ```bash
+    npm install
+## Running Tests
+This project uses Jest for unit testing. To execute the tests, run:
+    ```bash
+    npm run test
