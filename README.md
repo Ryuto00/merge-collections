@@ -29,6 +29,7 @@ The solution uses a **3-Pointers Approach** to compare values from all three col
    ```bash
     npm install
 ## Running Tests
-This project uses Jest for unit testing. To execute the tests, run:
-    ```bash
-    npm run test
+This project uses **Jest** for unit testing. To execute the tests, run:
+
+```bash
+npm run test
